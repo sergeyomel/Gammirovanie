@@ -1,0 +1,16 @@
+C:\Users\myacc\Desktop\lab2\ConConfig\bin\Debug\net6.0\ConConfig.exe
+C:\Users\myacc\Desktop\lab2\ConConfig\bin\Debug\net6.0\ConConfig.dll.config
+C:\Users\myacc\Desktop\lab2\ConConfig\bin\Debug\net6.0\ConConfig.deps.json
+C:\Users\myacc\Desktop\lab2\ConConfig\bin\Debug\net6.0\ConConfig.runtimeconfig.json
+C:\Users\myacc\Desktop\lab2\ConConfig\bin\Debug\net6.0\ConConfig.dll
+C:\Users\myacc\Desktop\lab2\ConConfig\bin\Debug\net6.0\ConConfig.pdb
+C:\Users\myacc\Desktop\lab2\ConConfig\obj\Debug\net6.0\ConConfig.csproj.AssemblyReference.cache
+C:\Users\myacc\Desktop\lab2\ConConfig\obj\Debug\net6.0\ConConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myacc\Desktop\lab2\ConConfig\obj\Debug\net6.0\ConConfig.AssemblyInfoInputs.cache
+C:\Users\myacc\Desktop\lab2\ConConfig\obj\Debug\net6.0\ConConfig.AssemblyInfo.cs
+C:\Users\myacc\Desktop\lab2\ConConfig\obj\Debug\net6.0\ConConfig.csproj.CoreCompileInputs.cache
+C:\Users\myacc\Desktop\lab2\ConConfig\obj\Debug\net6.0\ConConfig.dll
+C:\Users\myacc\Desktop\lab2\ConConfig\obj\Debug\net6.0\refint\ConConfig.dll
+C:\Users\myacc\Desktop\lab2\ConConfig\obj\Debug\net6.0\ConConfig.pdb
+C:\Users\myacc\Desktop\lab2\ConConfig\obj\Debug\net6.0\ConConfig.genruntimeconfig.cache
+C:\Users\myacc\Desktop\lab2\ConConfig\obj\Debug\net6.0\ref\ConConfig.dll
